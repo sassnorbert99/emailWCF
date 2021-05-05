@@ -1,0 +1,47 @@
+D:\GoogleDrive\Google Drive\MyPROGRAMS\VI. félév\IntEszkozok\BEADANDOK\WCF\jMail\jMailClient\jMailClient\bin\Debug\jMailClient.exe.config
+D:\GoogleDrive\Google Drive\MyPROGRAMS\VI. félév\IntEszkozok\BEADANDOK\WCF\jMail\jMailClient\jMailClient\bin\Debug\jMailClient.exe
+D:\GoogleDrive\Google Drive\MyPROGRAMS\VI. félév\IntEszkozok\BEADANDOK\WCF\jMail\jMailClient\jMailClient\bin\Debug\jMailClient.pdb
+D:\GoogleDrive\Google Drive\MyPROGRAMS\VI. félév\IntEszkozok\BEADANDOK\WCF\jMail\jMailClient\jMailClient\obj\x86\Debug\MainWindow.baml
+D:\GoogleDrive\Google Drive\MyPROGRAMS\VI. félév\IntEszkozok\BEADANDOK\WCF\jMail\jMailClient\jMailClient\obj\x86\Debug\MainWindow.g.cs
+D:\GoogleDrive\Google Drive\MyPROGRAMS\VI. félév\IntEszkozok\BEADANDOK\WCF\jMail\jMailClient\jMailClient\obj\x86\Debug\App.g.cs
+D:\GoogleDrive\Google Drive\MyPROGRAMS\VI. félév\IntEszkozok\BEADANDOK\WCF\jMail\jMailClient\jMailClient\obj\x86\Debug\jMailClient_MarkupCompile.cache
+D:\GoogleDrive\Google Drive\MyPROGRAMS\VI. félév\IntEszkozok\BEADANDOK\WCF\jMail\jMailClient\jMailClient\obj\x86\Debug\jMailClient.g.resources
+D:\GoogleDrive\Google Drive\MyPROGRAMS\VI. félév\IntEszkozok\BEADANDOK\WCF\jMail\jMailClient\jMailClient\obj\x86\Debug\jMailClient.Properties.Resources.resources
+D:\GoogleDrive\Google Drive\MyPROGRAMS\VI. félév\IntEszkozok\BEADANDOK\WCF\jMail\jMailClient\jMailClient\obj\x86\Debug\jMailClient.csproj.GenerateResource.Cache
+D:\GoogleDrive\Google Drive\MyPROGRAMS\VI. félév\IntEszkozok\BEADANDOK\WCF\jMail\jMailClient\jMailClient\obj\x86\Debug\jMailClient.exe
+D:\GoogleDrive\Google Drive\MyPROGRAMS\VI. félév\IntEszkozok\BEADANDOK\WCF\jMail\jMailClient\jMailClient\obj\x86\Debug\jMailClient.pdb
+D:\GoogleDrive\Google Drive\MyPROGRAMS\VI. félév\IntEszkozok\BEADANDOK\WCF\jMail\jMailClient\jMailClient\bin\Debug\jMailMeta.dll
+D:\GoogleDrive\Google Drive\MyPROGRAMS\VI. félév\IntEszkozok\BEADANDOK\WCF\jMail\jMailClient\jMailClient\bin\Debug\jMailMeta.pdb
+D:\GoogleDrive\Google Drive\MyPROGRAMS\VI. félév\IntEszkozok\BEADANDOK\WCF\jMail\jMailClient\jMailClient\obj\x86\Debug\jMailClient.csprojResolveAssemblyReference.cache
+C:\Users\Norbert\Desktop\jMail\jMailClient\jMailClient\bin\Debug\jMailClient.exe.config
+C:\Users\Norbert\Desktop\jMail\jMailClient\jMailClient\obj\x86\Debug\jMailClient.exe
+C:\Users\Norbert\Desktop\jMail\jMailClient\jMailClient\obj\x86\Debug\jMailClient.pdb
+C:\Users\Norbert\Desktop\jMail\jMailClient\jMailClient\bin\Debug\jMailClient.exe
+C:\Users\Norbert\Desktop\jMail\jMailClient\jMailClient\bin\Debug\jMailClient.pdb
+C:\Users\Norbert\Desktop\jMail\jMailClient\jMailClient\bin\Debug\jMailMeta.dll
+C:\Users\Norbert\Desktop\jMail\jMailClient\jMailClient\bin\Debug\jMailMeta.pdb
+C:\Users\Norbert\Desktop\jMail\jMailClient\jMailClient\obj\x86\Debug\jMailClient.csprojResolveAssemblyReference.cache
+C:\Users\Norbert\Desktop\jMail\jMailClient\jMailClient\obj\x86\Debug\MainWindow.baml
+C:\Users\Norbert\Desktop\jMail\jMailClient\jMailClient\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Norbert\Desktop\jMail\jMailClient\jMailClient\obj\x86\Debug\App.g.cs
+C:\Users\Norbert\Desktop\jMail\jMailClient\jMailClient\obj\x86\Debug\jMailClient_MarkupCompile.cache
+C:\Users\Norbert\Desktop\jMail\jMailClient\jMailClient\obj\x86\Debug\jMailClient.g.resources
+C:\Users\Norbert\Desktop\jMail\jMailClient\jMailClient\obj\x86\Debug\jMailClient.Properties.Resources.resources
+C:\Users\Norbert\Desktop\jMail\jMailClient\jMailClient\obj\x86\Debug\jMailClient.csproj.GenerateResource.Cache
+C:\Users\jager\Desktop\references\jMail\jMailClient\jMailClient\bin\Debug\jMailClient.exe.config
+C:\Users\jager\Desktop\references\jMail\jMailClient\jMailClient\bin\Debug\jMailClient.exe
+C:\Users\jager\Desktop\references\jMail\jMailClient\jMailClient\bin\Debug\jMailClient.pdb
+C:\Users\jager\Desktop\references\jMail\jMailClient\jMailClient\bin\Debug\jMailMeta.dll
+C:\Users\jager\Desktop\references\jMail\jMailClient\jMailClient\bin\Debug\jMailMeta.pdb
+C:\Users\jager\Desktop\references\jMail\jMailClient\jMailClient\obj\x86\Debug\jMailClient.csprojAssemblyReference.cache
+C:\Users\jager\Desktop\references\jMail\jMailClient\jMailClient\obj\x86\Debug\MainWindow.baml
+C:\Users\jager\Desktop\references\jMail\jMailClient\jMailClient\obj\x86\Debug\MainWindow.g.cs
+C:\Users\jager\Desktop\references\jMail\jMailClient\jMailClient\obj\x86\Debug\App.g.cs
+C:\Users\jager\Desktop\references\jMail\jMailClient\jMailClient\obj\x86\Debug\jMailClient_MarkupCompile.cache
+C:\Users\jager\Desktop\references\jMail\jMailClient\jMailClient\obj\x86\Debug\jMailClient.g.resources
+C:\Users\jager\Desktop\references\jMail\jMailClient\jMailClient\obj\x86\Debug\jMailClient.Properties.Resources.resources
+C:\Users\jager\Desktop\references\jMail\jMailClient\jMailClient\obj\x86\Debug\jMailClient.csproj.GenerateResource.cache
+C:\Users\jager\Desktop\references\jMail\jMailClient\jMailClient\obj\x86\Debug\jMailClient.csproj.CoreCompileInputs.cache
+C:\Users\jager\Desktop\references\jMail\jMailClient\jMailClient\obj\x86\Debug\jMailClient.csproj.CopyComplete
+C:\Users\jager\Desktop\references\jMail\jMailClient\jMailClient\obj\x86\Debug\jMailClient.exe
+C:\Users\jager\Desktop\references\jMail\jMailClient\jMailClient\obj\x86\Debug\jMailClient.pdb

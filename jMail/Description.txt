@@ -1,0 +1,45 @@
+Mail Server
+-----------
+
+-user List
+-message List
+
++Új felhasználó regisztrálása
++Login
++Üzenet küldése
++Üzenetek lekérdezése(bejövõ, elküldött, piszkozatok)
++Keresés
++Szûrés
++Üzenetek törlése
++Mentés lemezre(egy üzenet, összes)
++GetUserData
++Kilépés
+
+
+
+Osztályok:
+
+User
+----
+-userName
+-password
+-name
+-birthday
+-mailAddress
+-picture(path on computer)
+-contact List
+
+
+
+Mail
+----
+-from
+-to
+-subject
+-message
+-date
+-status(readed, unreaded)
+
+felhasznalok:
+test1 - asdasd
+sassnorbert - s...5

@@ -1,0 +1,10 @@
+C:\Users\jager\Desktop\jMail\jMailServer\jMailServer\bin\x64\Debug\jMailServer.exe.config
+C:\Users\jager\Desktop\jMail\jMailServer\jMailServer\bin\x64\Debug\jMailServer.exe
+C:\Users\jager\Desktop\jMail\jMailServer\jMailServer\bin\x64\Debug\jMailServer.pdb
+C:\Users\jager\Desktop\jMail\jMailServer\jMailServer\bin\x64\Debug\jMailMeta.dll
+C:\Users\jager\Desktop\jMail\jMailServer\jMailServer\bin\x64\Debug\System.Data.SQLite.dll
+C:\Users\jager\Desktop\jMail\jMailServer\jMailServer\bin\x64\Debug\jMailMeta.pdb
+C:\Users\jager\Desktop\jMail\jMailServer\jMailServer\obj\x64\Debug\jMailServer.csproj.CoreCompileInputs.cache
+C:\Users\jager\Desktop\jMail\jMailServer\jMailServer\obj\x64\Debug\jMailServer.csproj.CopyComplete
+C:\Users\jager\Desktop\jMail\jMailServer\jMailServer\obj\x64\Debug\jMailServer.exe
+C:\Users\jager\Desktop\jMail\jMailServer\jMailServer\obj\x64\Debug\jMailServer.pdb

@@ -1,0 +1,5 @@
+D:\GoogleDrive\Google Drive\MyPROGRAMS\VI. félév\IntEszkozok\BEADANDOK\WCF\jMail\jMailMeta\jMailMeta\bin\Debug\jMailMeta.dll
+D:\GoogleDrive\Google Drive\MyPROGRAMS\VI. félév\IntEszkozok\BEADANDOK\WCF\jMail\jMailMeta\jMailMeta\bin\Debug\jMailMeta.pdb
+D:\GoogleDrive\Google Drive\MyPROGRAMS\VI. félév\IntEszkozok\BEADANDOK\WCF\jMail\jMailMeta\jMailMeta\obj\Debug\jMailMeta.dll
+D:\GoogleDrive\Google Drive\MyPROGRAMS\VI. félév\IntEszkozok\BEADANDOK\WCF\jMail\jMailMeta\jMailMeta\obj\Debug\jMailMeta.pdb
+D:\GoogleDrive\Google Drive\MyPROGRAMS\VI. félév\IntEszkozok\BEADANDOK\WCF\jMail\jMailMeta\jMailMeta\obj\Debug\jMailMeta.csprojResolveAssemblyReference.cache

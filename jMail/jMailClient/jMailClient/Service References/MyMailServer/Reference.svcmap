@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="e7d20f18-2464-4b51-82df-95c05cf0ee93" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:25500/MailServer" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="MailServer3.xsd" MetadataType="Schema" ID="4d5352fe-d3f0-4b10-88b6-43a2b817309d" SourceId="1" SourceUrl="http://localhost:25500/MailServer?xsd=xsd0" />
+    <MetadataFile FileName="MailServer.xsd" MetadataType="Schema" ID="c9f9fc6d-b3c0-4dda-b70b-07ae55861b4e" SourceId="1" SourceUrl="http://localhost:25500/MailServer?xsd=xsd1" />
+    <MetadataFile FileName="MailServer1.xsd" MetadataType="Schema" ID="42f7d643-10c9-43b0-b187-09ec16dfb210" SourceId="1" SourceUrl="http://localhost:25500/MailServer?xsd=xsd2" />
+    <MetadataFile FileName="MailServer.wsdl" MetadataType="Wsdl" ID="460fe984-32c5-4947-a412-23e413ea42fc" SourceId="1" SourceUrl="http://localhost:25500/MailServer" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

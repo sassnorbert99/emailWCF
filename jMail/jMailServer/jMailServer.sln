@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jMailServer", "jMailServer\jMailServer.csproj", "{0089B048-0ECB-4A65-9C94-1FE168F74E9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0089B048-0ECB-4A65-9C94-1FE168F74E9C}.Debug|x64.ActiveCfg = Debug|x64
+		{0089B048-0ECB-4A65-9C94-1FE168F74E9C}.Debug|x64.Build.0 = Debug|x64
+		{0089B048-0ECB-4A65-9C94-1FE168F74E9C}.Debug|x86.ActiveCfg = Debug|x86
+		{0089B048-0ECB-4A65-9C94-1FE168F74E9C}.Debug|x86.Build.0 = Debug|x86
+		{0089B048-0ECB-4A65-9C94-1FE168F74E9C}.Release|x64.ActiveCfg = Release|x64
+		{0089B048-0ECB-4A65-9C94-1FE168F74E9C}.Release|x64.Build.0 = Release|x64
+		{0089B048-0ECB-4A65-9C94-1FE168F74E9C}.Release|x86.ActiveCfg = Release|x86
+		{0089B048-0ECB-4A65-9C94-1FE168F74E9C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BDBBDEF-A1CF-4C57-A447-6A9E46A20A80}
+	EndGlobalSection
+EndGlobal

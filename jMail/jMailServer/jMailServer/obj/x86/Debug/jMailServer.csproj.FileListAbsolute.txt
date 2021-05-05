@@ -1,0 +1,43 @@
+D:\GoogleDrive\Google Drive\MyPROGRAMS\VI. félév\IntEszkozok\BEADANDOK\WCF\jMail\jMailServer\jMailServer\bin\Debug\jMailServer.exe.config
+D:\GoogleDrive\Google Drive\MyPROGRAMS\VI. félév\IntEszkozok\BEADANDOK\WCF\jMail\jMailServer\jMailServer\bin\Debug\jMailServer.exe
+D:\GoogleDrive\Google Drive\MyPROGRAMS\VI. félév\IntEszkozok\BEADANDOK\WCF\jMail\jMailServer\jMailServer\bin\Debug\jMailServer.pdb
+D:\GoogleDrive\Google Drive\MyPROGRAMS\VI. félév\IntEszkozok\BEADANDOK\WCF\jMail\jMailServer\jMailServer\obj\x86\Debug\jMailServer.exe
+D:\GoogleDrive\Google Drive\MyPROGRAMS\VI. félév\IntEszkozok\BEADANDOK\WCF\jMail\jMailServer\jMailServer\obj\x86\Debug\jMailServer.pdb
+D:\GoogleDrive\Google Drive\MyPROGRAMS\VI. félév\IntEszkozok\BEADANDOK\WCF\jMail\jMailServer\jMailServer\bin\Debug\jMailMeta.dll
+D:\GoogleDrive\Google Drive\MyPROGRAMS\VI. félév\IntEszkozok\BEADANDOK\WCF\jMail\jMailServer\jMailServer\bin\Debug\jMailMeta.pdb
+D:\GoogleDrive\Google Drive\MyPROGRAMS\VI. félév\IntEszkozok\BEADANDOK\WCF\jMail\jMailServer\jMailServer\obj\x86\Debug\jMailServer.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\Google Drive\MyPROGRAMS\VI. félév\IntEszkozok\BEADANDOK\WCF\jMail\jMailServer\jMailServer\bin\Debug\System.Data.SQLite.dll
+C:\Users\Norbert\Desktop\jMail\jMailServer\jMailServer\bin\Debug\jMailServer.exe.config
+C:\Users\Norbert\Desktop\jMail\jMailServer\jMailServer\obj\x86\Debug\jMailServer.exe
+C:\Users\Norbert\Desktop\jMail\jMailServer\jMailServer\obj\x86\Debug\jMailServer.pdb
+C:\Users\Norbert\Desktop\jMail\jMailServer\jMailServer\bin\Debug\jMailServer.exe
+C:\Users\Norbert\Desktop\jMail\jMailServer\jMailServer\bin\Debug\jMailServer.pdb
+C:\Users\Norbert\Desktop\jMail\jMailServer\jMailServer\bin\Debug\jMailMeta.dll
+C:\Users\Norbert\Desktop\jMail\jMailServer\jMailServer\bin\Debug\jMailMeta.pdb
+C:\Users\Norbert\Desktop\jMail\jMailServer\jMailServer\obj\x86\Debug\jMailServer.csprojResolveAssemblyReference.cache
+C:\Users\jager\Downloads\jMail-20210504T110407Z-001\jMail\jMailServer\jMailServer\bin\Debug\jMailServer.exe.config
+C:\Users\jager\Downloads\jMail-20210504T110407Z-001\jMail\jMailServer\jMailServer\bin\Debug\jMailServer.exe
+C:\Users\jager\Downloads\jMail-20210504T110407Z-001\jMail\jMailServer\jMailServer\bin\Debug\jMailServer.pdb
+C:\Users\jager\Downloads\jMail-20210504T110407Z-001\jMail\jMailServer\jMailServer\bin\Debug\jMailMeta.dll
+C:\Users\jager\Downloads\jMail-20210504T110407Z-001\jMail\jMailServer\jMailServer\bin\Debug\jMailMeta.pdb
+C:\Users\jager\Downloads\jMail-20210504T110407Z-001\jMail\jMailServer\jMailServer\obj\x86\Debug\jMailServer.csprojAssemblyReference.cache
+C:\Users\jager\Downloads\jMail-20210504T110407Z-001\jMail\jMailServer\jMailServer\obj\x86\Debug\jMailServer.csproj.CoreCompileInputs.cache
+C:\Users\jager\Downloads\jMail-20210504T110407Z-001\jMail\jMailServer\jMailServer\obj\x86\Debug\jMailServer.csproj.CopyComplete
+C:\Users\jager\Downloads\jMail-20210504T110407Z-001\jMail\jMailServer\jMailServer\obj\x86\Debug\jMailServer.exe
+C:\Users\jager\Downloads\jMail-20210504T110407Z-001\jMail\jMailServer\jMailServer\obj\x86\Debug\jMailServer.pdb
+C:\Users\jager\Desktop\jMail\jMailServer\jMailServer\bin\Debug\jMailServer.exe.config
+C:\Users\jager\Desktop\jMail\jMailServer\jMailServer\bin\Debug\jMailServer.exe
+C:\Users\jager\Desktop\jMail\jMailServer\jMailServer\bin\Debug\jMailServer.pdb
+C:\Users\jager\Desktop\jMail\jMailServer\jMailServer\obj\x86\Debug\jMailServer.csproj.CoreCompileInputs.cache
+C:\Users\jager\Desktop\jMail\jMailServer\jMailServer\obj\x86\Debug\jMailServer.csproj.CopyComplete
+C:\Users\jager\Desktop\jMail\jMailServer\jMailServer\obj\x86\Debug\jMailServer.exe
+C:\Users\jager\Desktop\jMail\jMailServer\jMailServer\obj\x86\Debug\jMailServer.pdb
+C:\Users\jager\Desktop\jMail\jMailServer\jMailServer\obj\x86\Debug\jMailServer.csprojAssemblyReference.cache
+C:\Users\jager\Desktop\jMail\jMailServer\jMailServer\bin\Debug\EntityFramework.dll
+C:\Users\jager\Desktop\jMail\jMailServer\jMailServer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jager\Desktop\jMail\jMailServer\jMailServer\bin\Debug\System.Data.SQLite.dll
+C:\Users\jager\Desktop\jMail\jMailServer\jMailServer\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\jager\Desktop\jMail\jMailServer\jMailServer\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\jager\Desktop\jMail\jMailServer\jMailServer\bin\Debug\EntityFramework.xml
+C:\Users\jager\Desktop\jMail\jMailServer\jMailServer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jager\Desktop\jMail\jMailServer\jMailServer\bin\Debug\System.Data.SQLite.xml
